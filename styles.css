@@ -1,5 +1,13 @@
 <style>
-
+	
+	header{
+		background: #660000;
+		position:fixed;
+	    padding:20px;
+	    left:0; 
+	    right:0;
+	    top:0;
+	}
 	footer {
 		text-align: center;
 	    padding: 40px;
@@ -21,14 +29,7 @@
 		float: left;
 	    margin-left:150px;
 	}
-	header{
-		background: #660000;
-		position:fixed;
-	    padding:20px;
-	    left:0; 
-	    right:0;
-	    top:0;
-	}
+	
 	a{
 		text-decoration:none;
 		color:inherit;
