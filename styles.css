@@ -1,7 +1,7 @@
 
 	header{
 		background: #660000;
-		position:fixed;
+		position:relative;
 	    padding:20px;
 	    left:0; 
 	    right:0;
@@ -12,13 +12,14 @@
 	    padding: 40px;
 	    background-color: #660000;
 	    color: white;
-	    position: fixed;
+	    position: relative;
 	    left: 0;
 	    bottom: 0;
 	    right : 0;
 	}
 	.slideshow-container {
-		max-width: 1000px;
+		max-width: 800px;
+		max-width: 400px;
 		position: relative;
 		margin: auto;
 	}
@@ -71,7 +72,7 @@
 		font-size: 20px;
 	}
 	.logo{
-		float: left;
+		
 		color: white;
 		font-size: 50px;
 	}
